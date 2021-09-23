@@ -3,7 +3,6 @@
 - 👀 I’m interested in Dev/DevOPS/UI/QA/CI-CD.
 - 🌱 I’m practicing fundamentals, DS, Algorithms of Python/Java all over again.
 - 🌱 Also I'm learning Golang/JS/NodeJS
-- 📫 You can reach me at sonyjames9@yahoo.com
 
 - I will create multiple repos for UI/Backend testing using different languages, frameworks and libraries
 - Eager to contribute to Open Source Projects.
